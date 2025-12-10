@@ -1,1 +1,1 @@
-# Data-Science-and-statistics
+# DATA-SCIENCE-AND-STATISTICS
